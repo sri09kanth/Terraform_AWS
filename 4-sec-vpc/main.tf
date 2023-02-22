@@ -32,7 +32,7 @@ variable "intra_subnets" {
 #############################################################################
 
 provider "aws" 
-  region  = 
+  region 
   profile = "sec"
 }
 
