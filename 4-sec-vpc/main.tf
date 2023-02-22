@@ -22,7 +22,6 @@ variable "private_subnets" {
 }
 
 variable "intra_subnets" {
-  type    = list(string)
 }
 
 
