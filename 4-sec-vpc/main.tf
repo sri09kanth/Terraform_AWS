@@ -32,8 +32,7 @@ variable "intra_subnets" {
 
 
 provider
-  profile =
-}
+  
 
 #############################################################################
 # DATA SOURCES
