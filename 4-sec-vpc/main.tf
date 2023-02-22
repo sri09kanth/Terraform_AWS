@@ -27,8 +27,6 @@ variable "intra_subnets" {
 }
 
 
-
-
 provider
   
 
