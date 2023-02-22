@@ -31,7 +31,7 @@ variable "intra_subnets" {
 # PROVIDERS
 #############################################################################
 
-provider "aws" {
+provider "aws" 
   region  = var.region
   profile = "sec"
 }
