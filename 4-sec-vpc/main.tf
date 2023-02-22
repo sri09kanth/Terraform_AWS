@@ -18,7 +18,6 @@ variable "public_subnets" {
 
 variable "private_subnets" {
   type    = list(string)
-  default = ["10.0.100.0/24", "10.0.101.0/24"]
 }
 
 variable "intra_subnets" {
