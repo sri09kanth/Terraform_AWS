@@ -30,7 +30,6 @@ provider
 # Create security VPC
 
 module "vpc" {
-  source  = "terraform-aws-modules/vpc/aws"
   version = "~> 3.0"
   name = "sec-vpc"
   cidr = var.vpc_cidr_range
