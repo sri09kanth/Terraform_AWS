@@ -27,12 +27,6 @@ variable "intra_subnets" {
 
 provider
   
-
-
-
-
-
-
 # RESOURCES
   
 
