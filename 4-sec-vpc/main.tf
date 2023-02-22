@@ -31,8 +31,7 @@ variable "intra_subnets" {
 # PROVIDERS
 
 
-provider "aws" 
- 
+provider
   profile = "sec"
 }
 
